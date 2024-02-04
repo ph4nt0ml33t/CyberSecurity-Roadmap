@@ -1,25 +1,14 @@
-# Cyber Security Learning Path
-
-## Basic Level
-
-- ![Fundamentals](https://img.shields.io/badge/Fundamentals-Computer%20Networks%20%7C%20Operating%20System-brightgreen?style=for-the-badge&logo=shield) [Learn Basics](#)
-- ![Cyber Hygiene](https://img.shields.io/badge/Cyber%20Hygiene-Password%20Management%20%7C%20Phishing%20Awareness-yellow?style=for-the-badge&logo=shield) [Practice Cyber Hygiene](#)
-- ![Security Policies](https://img.shields.io/badge/Security%20Policies-Introduction%20to%20Policies%20%7C%20Compliance-blue?style=for-the-badge&logo=shield) [Understand Policies](#)
-
-## Intermediate Level
-
-- ![Network Security](https://img.shields.io/badge/Network%20Security-Firewalls%20%7C%20VPN%20%7C%20Secure%20Design-orange?style=for-the-badge&logo=shield) [Explore Network Security](#)
-- ![Web Security](https://img.shields.io/badge/Web%20Security-Web%20Vulnerabilities%20%7C%20Secure%20Coding-red?style=for-the-badge&logo=shield) [Learn Web Security](#)
-- ![Endpoint Security](https://img.shields.io/badge/Endpoint%20Security-Antivirus%20%7C%20Encryption%20%7C%20Configurations-lightgrey?style=for-the-badge&logo=shield) [Master Endpoint Security](#)
-
-## Advanced Level
-
-- ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-Cyber%20Threats%20%7C%20Threat%20Feeds-green?style=for-the-badge&logo=shield) [Dive into Threat Intelligence](#)
-- ![Incident Response](https://img.shields.io/badge/Incident%20Response-Develop%20Plans%20%7C%20Forensics%20%7C%20Analysis-blueviolet?style=for-the-badge&logo=shield) [Master Incident Response](#)
-- ![Cryptography](https://img.shields.io/badge/Cryptography-Encryption%20Algorithms%20%7C%20PKI-yellowgreen?style=for-the-badge&logo=shield) [Explore Cryptography](#)
-
-## Expert Level
-
-- ![Security Architecture](https://img.shields.io/badge/Security%20Architecture-Secure%20Design%20%7C%20SDLC%20%7C%20Networks-critical?style=for-the-badge&logo=shield) [Design Secure Systems](#)
-- ![Ethical Hacking/Penetration Testing](https://img.shields.io/badge/Ethical%20Hacking-Penetration%20Testing%20%7C%20Offensive%20Security-blueviolet?style=for-the-badge&logo=shield) [Explore Ethical Hacking](#)
-- ![Security Certifications](https://img.shields.io/badge/Security%20Certifications-CISSP%20%7C%20CEH%20%7C%20Expert-red?style=for-the-badge&logo=shield) [Get Certified](#)
+| Level          | Domain                   | Skills/Knowledge                                             | Resources Link            |
+|----------------|--------------------------|--------------------------------------------------------------|---------------------------|
+| Basic          | Fundamentals             | Computer Networks basics, Operating System fundamentals     | [![Fundamentals](https://img.shields.io/badge/Fundamentals-Computer%20Networks%20%7C%20OS-brightgreen?style=for-the-badge&logo=shield)](https://example.com/basics)         |
+| Basic          | Cyber Hygiene            | Password management, Phishing awareness                      | [![Cyber Hygiene](https://img.shields.io/badge/Cyber%20Hygiene-Password%20Management%20%7C%20Phishing%20Awareness-yellow?style=for-the-badge&logo=shield)](https://example.com/cyber-hygiene)|
+| Basic          | Security Policies        | Introduction to security policies and compliance standards  | [![Security Policies](https://img.shields.io/badge/Security%20Policies-Introduction%20to%20Policies%20%7C%20Compliance-blue?style=for-the-badge&logo=shield)](https://example.com/security-policies)  |
+| Intermediate   | Network Security          | Firewalls, VPNs, secure network design                       | [![Network Security](https://img.shields.io/badge/Network%20Security-Firewalls%20%7C%20VPN%20%7C%20Secure%20Design-orange?style=for-the-badge&logo=shield)](https://example.com/network-security)|
+| Intermediate   | Web Security              | Understanding web vulnerabilities, Secure coding practices   | [![Web Security](https://img.shields.io/badge/Web%20Security-Web%20Vulnerabilities%20%7C%20Secure%20Coding-red?style=for-the-badge&logo=shield)](https://example.com/web-security)   |
+| Intermediate   | Endpoint Security         | Antivirus, Device encryption, security configurations         | [![Endpoint Security](https://img.shields.io/badge/Endpoint%20Security-Antivirus%20%7C%20Encryption%20%7C%20Configurations-lightgrey?style=for-the-badge&logo=shield)](https://example.com/endpoint-security)|
+| Advanced       | Threat Intelligence       | Cyber threats understanding, Working with threat intelligence feeds | [![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-Cyber%20Threats%20%7C%20Threat%20Feeds-green?style=for-the-badge&logo=shield)](https://example.com/threat-intelligence)|
+| Advanced       | Incident Response         | Developing incident response plans, Forensics and analysis   | [![Incident Response](https://img.shields.io/badge/Incident%20Response-Develop%20Plans%20%7C%20Forensics%20%7C%20Analysis-blueviolet?style=for-the-badge&logo=shield)](https://example.com/incident-response)|
+| Advanced       | Cryptography              | Encryption algorithms, Public key infrastructure (PKI)        | [![Cryptography](https://img.shields.io/badge/Cryptography-Encryption%20Algorithms%20%7C%20PKI-yellowgreen?style=for-the-badge&logo=shield)](https://example.com/cryptography)|
+| Expert         | Security Architecture     | Designing secure systems and networks, Secure SDLC            | [![Security Architecture](https://img.shields.io/badge/Security%20Architecture-Secure%20Design%20%7C%20SDLC%20%7C%20Networks-critical?style=for-the-badge&logo=shield)](https://example.com/security-architecture)|
+| Expert         | Ethical Hacking/Penetration Testing | Offensive security techniques, Penetration testing methodologies | [![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-Penetration%20Testing%20%7C%20Offensive%20Security-blueviolet?style=for-the-badge&logo=shield)](https://example.com/ethical-hacking)|
+| Expert         | Security Certifications    | CISSP, CEH, Expert-level certifications                         | [![Security Certifications](https://img.shields.io/badge/Security%20Certifications-CISSP%20%7C%20CEH%20%7C%20Expert-red?style=for-the-badge&logo=shield)](https://example.com/security-certifications)|
